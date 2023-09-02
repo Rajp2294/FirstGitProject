@@ -4,6 +4,11 @@ class Greetings{
 		System.out.println("Hey how are you??");
 		for(int i = 0; i < 5; i++){
 			System.out.println(i);
+
+		}
+		System.out.println("Saying goodbye to the friend");
 	}
 }
+
+
 
